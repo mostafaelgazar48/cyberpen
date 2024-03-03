@@ -48,7 +48,7 @@ export default function Page() {
                         <h2 className="mb-4 text-xl font-bold leading-9 md:text-2xl text-gray-400">
                             Email</h2>
                         <a href="#"
-                           className="text-base font-medium  md:text-lg text-gray-400">ITcompany@gmail.com</a>
+                           className="text-base font-medium  md:text-lg text-gray-400">cyberpen2023@gmail.com</a>
                     </div>
                 </div>
                 <div className="w-full px-4 mb-4 lg:w-1/3 lg:mb-0">

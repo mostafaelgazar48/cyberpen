@@ -9,9 +9,10 @@ interface NavigationItem {
 
 const navigation: NavigationItem[] = [
     { name: 'Home', href: '#home-section', current: false },
-    { name: 'Exchange', href: '#exchange-section', current: false },
-    { name: 'Features', href: '#features-section', current: false },
-    { name: 'FAQ', href: '#faq-section', current: false },
+    { name: 'Benefits', href: '#benefits', current: false },
+    // { name: 'Features', href: '#features-section', current: false },
+    { name :'Knowledge Hub', href: '/knowledge', current: false},
+    { name: 'About', href: '/about', current: false },
 ]
 
 function classNames(...classes: string[]) {
@@ -39,7 +40,7 @@ const Data = () => {
                         ))}
                         <div className="mt-4"></div>
                         <button className="bg-navyblue w-full hover:text-white text-white border border-purple font-medium py-2 px-4 rounded">
-                            Connect Wallet
+                            <Link href='/contact'> Contact Us</Link>
                         </button>
                     </div>
                 </div>
