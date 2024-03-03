@@ -14,10 +14,10 @@ const Simple = () => {
                 <h3 className="text-center text-offwhite text-3xl lg:text-5xl font-semibold mb-6">Would you like to know
                     what we could do for you?
                 </h3>
-                <p className="text-center text-bluish text-lg font-normal mb-8">Contact us, and let's get to know each
+                <p className="text-center text-bluish text-lg font-normal mb-8">Contact us, and let&apos;s get to know each
                     other.
                     <br/>
-                    No obligations, no annoying sales talk, we're both too busy for that.
+                    No obligations, no annoying sales talk, we&apos;re both too busy for that.
 
                 </p>
                 <div className="flex justify-center ">

@@ -68,7 +68,7 @@ export default function Timeline() {
                                         <h4 className="mb-3 font-bold text-lg md:text-2xl">
                                             Selective </h4>
                                         <p className="text-sm md:text-base leading-snug text-gray-50 text-opacity-100">
-                                            We're highly selective, working with only 1-2 cybersecurity companies per
+                                            We&apos;re highly selective, working with only 1-2 cybersecurity companies per
                                             region to focus on helping you dominate the market.
                                         </p>
                                     </div>

@@ -33,7 +33,7 @@ const Work = () => {
                 <div className='text-center mb-14'>
                     <p className='text-bluish md:text-lg font-normal leading-8'>Many cybersecurity companies out there
                         offer similar services and products as yours. <br/>
-                        So, how do you make sure clients choose your company first when they're ready to buy?
+                        So, how do you make sure clients choose your company first when they&apos;re ready to buy?
                     </p>
                     <h3 className='text-offwhite text-3xl md:text-5xl font-bold mb-3'>How Do You Stand Out From The Competition?
                     </h3>
