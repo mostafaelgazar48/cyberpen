@@ -18,12 +18,12 @@ export default function Page() {
                                 wider audiences.
                             </h2>
                             <p className="mb-10 text-gray-400 ">
-                                In today's digital landscape, cybersecurity is no longer a luxury—it's a necessity. Your
+                                In today&apos;s digital landscape, cybersecurity is no longer a luxury—it&apos;s a
+                                necessity. Your
                                 audience and potential clients must recognize that cyber threats could harm their
                                 reputations.
-                                <br/> We're here to elevate their awareness and demonstrate that your services and
+                                <br/> We&apos;re here to elevate their awareness and demonstrate that your services and
                                 products offer the solutions they need.
-
                             </p>
                         </div>
                     </div>
