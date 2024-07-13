@@ -28,7 +28,7 @@ const workdata: workdata[] = [
 const Work = () => {
     return (
         <div>
-            <div className='mx-auto max-w-7xl mt-16 px-6 mb-20 relative'>
+            <div className='mx-auto max-w-7xl mt-12 px-6 mb-20 relative'>
                 <div className="radial-bgone hidden lg:block"></div>
                 <div className='text-center mb-14'>
                     <p className='text-bluish md:text-lg font-normal leading-8'>Many cybersecurity companies out there
